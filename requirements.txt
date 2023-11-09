@@ -49,3 +49,5 @@ bqplot
 numpy
 matplotlib
 scipy
+sympy
+deap
