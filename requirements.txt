@@ -52,3 +52,7 @@ scipy
 sympy
 deap
 seaborn
+nest-simulator==3.4
+torch==2.1.1+cpu
+torchaudio==2.1.1+cpu
+torchvision==0.16.1+cpu
